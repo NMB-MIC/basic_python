@@ -4,4 +4,4 @@ basic python course
 # TOPICS
 - variable
 - string
-- numberric
+- numberic
