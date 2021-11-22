@@ -1,7 +1,5 @@
-# basic_python
-basic python course
+# Course detail
+basic python course#1
+date: 19-20 nov 2021
 
-# TOPICS
-- variable
-- string
-- numberic
+cr. suraphop bunsawat
